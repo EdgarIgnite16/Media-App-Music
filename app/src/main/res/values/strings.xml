@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Media Music</string>
+    <string name="avatar_author">Avatar Author</string>
+    <string name="time_current">00:00</string>
+    <string name="time_total">00:00</string>
+    <string name="todo">TODO</string>
+    <string name="name_song">Text Song</string>
+</resources>
