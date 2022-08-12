@@ -1,2 +1,3 @@
 # Media-App-Music
-Just a media app music make by me!
+Just a media app music form some course
+!
